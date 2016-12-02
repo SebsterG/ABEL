@@ -20,13 +20,5 @@
     <Piece Source="d_p5_000060.vtu" />
     <Piece Source="d_p6_000060.vtu" />
     <Piece Source="d_p7_000060.vtu" />
-    <Piece Source="d_p8_000060.vtu" />
-    <Piece Source="d_p9_000060.vtu" />
-    <Piece Source="d_p10_000060.vtu" />
-    <Piece Source="d_p11_000060.vtu" />
-    <Piece Source="d_p12_000060.vtu" />
-    <Piece Source="d_p13_000060.vtu" />
-    <Piece Source="d_p14_000060.vtu" />
-    <Piece Source="d_p15_000060.vtu" />
   </PUnstructuredGrid>
 </VTKFile>

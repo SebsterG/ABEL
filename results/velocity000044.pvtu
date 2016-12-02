@@ -20,13 +20,5 @@
     <Piece Source="velocity_p5_000044.vtu" />
     <Piece Source="velocity_p6_000044.vtu" />
     <Piece Source="velocity_p7_000044.vtu" />
-    <Piece Source="velocity_p8_000044.vtu" />
-    <Piece Source="velocity_p9_000044.vtu" />
-    <Piece Source="velocity_p10_000044.vtu" />
-    <Piece Source="velocity_p11_000044.vtu" />
-    <Piece Source="velocity_p12_000044.vtu" />
-    <Piece Source="velocity_p13_000044.vtu" />
-    <Piece Source="velocity_p14_000044.vtu" />
-    <Piece Source="velocity_p15_000044.vtu" />
   </PUnstructuredGrid>
 </VTKFile>
